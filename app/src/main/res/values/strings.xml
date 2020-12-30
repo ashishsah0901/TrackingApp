@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Tracker</string>
-    <string name="google_maps_key" templateMergeStragery = "preserve" translatable="false">AIzaSyBQEm-772gdEkSIPtGsr7dbGE2w2yFYXRA</string>
+    <string name="google_maps_key" templateMergeStragery = "preserve" translatable="false">Your_Google_Map_Key</string>
     <string name="running_app">Running App</string>
     <string name="tracker">Tracker</string>
     <string name="sort_by">Sort by:</string>
